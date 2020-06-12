@@ -1,0 +1,33 @@
+.card-img {
+	height: 200px;
+	background-position: center center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.card-img_max {
+	height: 500px;
+}
+
+.myBtn1, .mycard1, .myBtn2, .myform5 {
+	display: inline-block;
+}
+
+.myBtn5 {
+ 	float:right;
+}
+
+.myform5 {
+ 	float:right;
+}
+.myBtn2 {
+ 	float:right;
+}
+
+
+.mybtn3 {
+	font-weight:bold;
+	float: right;
+}
+
